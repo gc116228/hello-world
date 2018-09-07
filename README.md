@@ -1,17 +1,7 @@
 # hello-world
 package com.kgc.demoeveryday;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.Reader;
-import java.io.UnsupportedEncodingException;
+
 
 //将文件test.txt 写入到新文件test1.txt当中去。
 
@@ -111,9 +101,26 @@ outputstream  字符输出流
 
 writer     字节输出流
 
-dataoutputstream  二进制文件输出流
+dataoutputstream 序列化和反序列化   二进制文件输出流
 */
 
+socket
+
+包装类：七个基本数据类型对应的包装类型
+实用类：枚举enum
+Stringbuffer 字符串的操作类
+和String的区别
+data日期类
+canlenders 日历类
+
+
+内部类：class内的类型，仅供其内部调用
+集合框架：list arralylist和linklist
+         set接口存储一组无序唯一的对象
+	    hashset 存放对象的引用 获取当中的元素可以使用增强for循环和iteritor迭代器 while（itor.hasNext()!=null）{itor.next
+	    }
+	 map hashmap 键值对集合
+map hashmap 
 
 
 
